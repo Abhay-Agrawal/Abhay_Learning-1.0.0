@@ -1,6 +1,6 @@
 # Learning Magento2 Extension
 **To Add text message, Drop Down, Radio Button, Multi Select and Text Area in store configuration**
-
+___
 # How to install
 
 Add the module in app/code/ folder in magento root like as app/code/Abhay/Learning
@@ -26,6 +26,7 @@ After saving the value of admin configuration then we can get these value in our
 
 ![learning_front](https://user-images.githubusercontent.com/55655451/91631762-a6a23c00-e9f9-11ea-8062-afeb6768ffd9.png)
 
+___
 
 # My Magento Module
 
