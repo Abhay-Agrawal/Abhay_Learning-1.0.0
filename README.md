@@ -1,5 +1,5 @@
 # Learning Magento2 Extension
-To Add text message, Drop Down, Radio Button, Multi Select and Text Area in store configuration
+**To Add text message, Drop Down, Radio Button, Multi Select and Text Area in store configuration**
 
 # How to install
 
@@ -14,7 +14,7 @@ php bin/magento cache:flush
 ```
 
 This Module is used to add 
-1 Radio Button
+1. Radio Button
 2. Drop Down
 3. Multi Select
 4. Text Area in the system configuration
