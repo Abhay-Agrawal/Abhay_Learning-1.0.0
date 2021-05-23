@@ -1,6 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Abhay-Agrawal&color=green)
 [![Github All Releases](https://img.shields.io/github/downloads/Abhay-Agrawal/Abhay_Learning-1.0.0/total.svg)]()
+____
+<a href="https://github.com/Abhay-Agrawal/Abhay_Learning-1.0.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay-Agrawal&repo=Abhay_Learning-1.0.0" />
+</a>
+
+____
 
 # Learning Magento2 Extension
 **To Add text message, Drop Down, Radio Button, Multi Select and Text Area in store configuration**
